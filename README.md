@@ -1,4 +1,4 @@
-# Apache_Airflow_Fundamentals
+# Apache Airflow Fundamentals
 
 Este é um repositório do curso Apache Airflow Fundamentals, da Astronomer Academy.
 
